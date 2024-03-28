@@ -1,0 +1,21 @@
+{
+  "name": "tea--the-best3",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zakladka3/tea--the-best3.git"
+  }, "dependencies": {
+    "tea--the-best3": "1.0.0",
+    "JOKERSSS": "1.0.0"},
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zakladka3/tea--the-best3/issues"
+  },
+  "homepage": "https://github.com/Zakladka3/tea--the-best3#readme"
+}
